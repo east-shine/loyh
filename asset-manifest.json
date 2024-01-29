@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/loyh/static/css/main.b2efb65c.css",
+    "main.js": "/loyh/static/js/main.6210dcd9.js",
+    "static/js/787.ada9d611.chunk.js": "/loyh/static/js/787.ada9d611.chunk.js",
+    "static/media/certificate.png": "/loyh/static/media/certificate.a6f6d6207a4adf82dbbe.png",
+    "static/media/about.jpg": "/loyh/static/media/about.2d5bffb8037c8eeb59da.jpg",
+    "static/media/people-1.png": "/loyh/static/media/people-1.94313be946b47b3dbe13.png",
+    "static/media/2022.jpeg": "/loyh/static/media/2022.9675e7968eaa29da7efa.jpeg",
+    "static/media/2023.jpeg": "/loyh/static/media/2023.6211632b1034b38318d8.jpeg",
+    "static/media/user.png": "/loyh/static/media/user.d55f135bd7ca4090e2af.png",
+    "static/media/star.png": "/loyh/static/media/star.a4e789700029e7b2c093.png",
+    "static/media/bean.png": "/loyh/static/media/bean.d1ebe81d524925d22ecd.png",
+    "static/media/logo.png": "/loyh/static/media/logo.5c648fb112221be66bad.png",
+    "static/media/slick.svg": "/loyh/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/loyh/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/loyh/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/loyh/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/instagram.svg": "/loyh/static/media/instagram.49774ae1afba0a7cc7d6394e79e1d65c.svg",
+    "static/media/jam_check.svg": "/loyh/static/media/jam_check.52031694aa31805c7484.svg",
+    "static/media/stars.svg": "/loyh/static/media/stars.f2e65ba39f169d56fd9bf131721c623d.svg",
+    "index.html": "/loyh/index.html",
+    "static/media/twitter.svg": "/loyh/static/media/twitter.5ab834a4d7154a138ba963c512fcaee4.svg",
+    "static/media/checklist.svg": "/loyh/static/media/checklist.0fbcd0082626a61cc26a.svg",
+    "static/media/facebook.svg": "/loyh/static/media/facebook.3b04928d5d15cac790a2cf6e1369c543.svg",
+    "static/media/eva_arrow-back-fill.svg": "/loyh/static/media/eva_arrow-back-fill.8cf82906a763e1a8df69e1dfec66299d.svg",
+    "static/media/eva_arrow-next-fill.svg": "/loyh/static/media/eva_arrow-next-fill.9acdd77fb546fc7b427dab84e649a651.svg",
+    "main.b2efb65c.css.map": "/loyh/static/css/main.b2efb65c.css.map",
+    "main.6210dcd9.js.map": "/loyh/static/js/main.6210dcd9.js.map",
+    "787.ada9d611.chunk.js.map": "/loyh/static/js/787.ada9d611.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2efb65c.css",
+    "static/js/main.6210dcd9.js"
+  ]
+}
